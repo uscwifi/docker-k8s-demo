@@ -1,2 +1,2 @@
-FROM node:8.15.1-alpine
+FROM k8s.gcr.io/kube-proxy:v1.14.0
 
